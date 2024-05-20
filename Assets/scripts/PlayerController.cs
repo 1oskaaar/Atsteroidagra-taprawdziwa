@@ -156,3 +156,4 @@ public class PlayerController : MonoBehaviour
         shieldSphere.SetActive(false);
     }
 }
+//koniec roboty elo
